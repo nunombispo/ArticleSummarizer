@@ -1,0 +1,6 @@
+streamlit
+langchain
+beautifulsoup4
+ctransformers
+transformers
+newspaper3k
